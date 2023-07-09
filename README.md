@@ -32,7 +32,7 @@ Clone the repository to your local machine using the following command:
 
 shell
 Copy code
-git clone https://github.com/KumarAryan/modern-periodic-table.git
+git clone[(https://github.com/Arax007/Modern-Periodic-Table-Project-in-C)]
 Navigate to the repository's directory:
 
 shell
@@ -58,10 +58,6 @@ Make your desired changes or additions.
 
 Commit your changes with descriptive commit messages:
 
-shell
-Copy code
-git commit -m "Add detailed information for element XYZ"
-Push your changes to your forked repository:
 
 shell
 Copy code
@@ -74,7 +70,3 @@ Make any requested changes until your pull request is accepted and merged.
 
 Please ensure that your contributions adhere to the repository's Code of Conduct.
 
-License
-This project is licensed under the MIT License. Feel free to use and modify the contents of this repository for educational or personal purposes. However, if you intend to use the materials for commercial applications, please reach out to the repository owner for permission.
-
-Please note that while efforts have been made to ensure the accuracy and reliability of the information provided, mistakes or errors may still be present. Use the information at your own discretion and verify with other reliable sources when necessary.
